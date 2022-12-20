@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danklad
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning full stack web development.
+- 🌱 I’m currently learning full stack app developer.
 - 💞️ I’m looking to collaborate on anything possible.
 - 📫 How to reach me ...
 
